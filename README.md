@@ -1,1 +1,0 @@
-# solitaire-world-card-games.github.io
